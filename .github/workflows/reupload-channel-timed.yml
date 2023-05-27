@@ -5,8 +5,8 @@
 name: 定时转载
 
 env:
-  CHANNEL_URL :  ''
-  # 频道链接，如 https://www.youtube.com/user/devilleon7
+  CHANNEL_URL :  'https://www.youtube.com/@SABreastCancerSymposium/videos'
+  # 频道链接，如 https://www.youtube.com/user/SABreastCancerSymposium
   TITLE_FORMAT : '${title}'
   # 标题格式 (如：[转载][{uploader}]{title})
   DESC_FORMAT : '${desc}'
